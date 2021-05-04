@@ -13,14 +13,14 @@
                     <items>
                         <group width="1" height="0.5" alignment="left" id="kIU-d5-NF7">
                             <items>
-                                <button width="0.5" height="1" alignment="left" title="1" id="G4S-49-2tA">
-                                    <fontDescription key="font" type="system" weight="thin" pointSize="32"/>
+                                <button width="0.5" height="1" alignment="left" title="Hello" id="G4S-49-2tA">
+                                    <fontDescription key="font" type="system" weight="thin" pointSize="18"/>
                                     <connections>
                                         <action selector="playSound1" destination="AgC-eL-Hgc" id="FkW-GW-l2x"/>
                                     </connections>
                                 </button>
-                                <button width="0.5" height="1" alignment="left" title="2" id="SVn-5F-XKL">
-                                    <fontDescription key="font" type="system" weight="thin" pointSize="32"/>
+                                <button width="0.5" height="1" alignment="left" title="Chew" id="SVn-5F-XKL">
+                                    <fontDescription key="font" type="system" weight="thin" pointSize="18"/>
                                     <connections>
                                         <action selector="playSound2" destination="AgC-eL-Hgc" id="eAz-Tn-hKW"/>
                                     </connections>
@@ -29,14 +29,14 @@
                         </group>
                         <group width="1" height="0.5" alignment="left" id="M29-fB-QYd">
                             <items>
-                                <button width="0.5" height="1" alignment="left" title="3" id="lm6-L6-ik6">
-                                    <fontDescription key="font" type="system" weight="thin" pointSize="32"/>
+                                <button width="0.5" height="1" alignment="left" title="Laugh" id="lm6-L6-ik6">
+                                    <fontDescription key="font" type="system" weight="thin" pointSize="18"/>
                                     <connections>
                                         <action selector="playSound3" destination="AgC-eL-Hgc" id="Jzj-jD-4TF"/>
                                     </connections>
                                 </button>
-                                <button width="0.5" height="1" alignment="left" title="4" id="ME4-8r-UXz">
-                                    <fontDescription key="font" type="system" weight="thin" pointSize="32"/>
+                                <button width="0.5" height="1" alignment="left" title="Happy" id="ME4-8r-UXz">
+                                    <fontDescription key="font" type="system" weight="thin" pointSize="18"/>
                                     <connections>
                                         <action selector="playSound4" destination="AgC-eL-Hgc" id="vci-vL-c8D"/>
                                     </connections>
